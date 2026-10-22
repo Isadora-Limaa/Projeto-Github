@@ -1,0 +1,4 @@
+nome: claudia
+cor do cabelo: azul
+cor da unha: marrom
+roupa

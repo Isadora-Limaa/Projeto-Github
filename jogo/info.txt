@@ -1,0 +1,3 @@
+nome: the last of us
+tema: zumbi
+classificação: 16
