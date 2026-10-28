@@ -1,2 +1,2 @@
-objeto é: lapís
-cor: marrom
+objeto é: cadeira
+cor: azul com rosa
