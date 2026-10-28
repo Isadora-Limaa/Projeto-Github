@@ -1,3 +1,5 @@
 nome: the last of us
 tema: zumbi
 classificação: 16
+com historias legais
+
