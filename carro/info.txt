@@ -1,3 +1,4 @@
 cor: roxo
 marca: uno
-banco: rosa
+banco: azul
+rodas: laranja
