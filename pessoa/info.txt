@@ -1,4 +1,4 @@
-nome: claudia
+nome: Luisa
 cor do cabelo: azul
 cor da unha: marrom
 roupa
